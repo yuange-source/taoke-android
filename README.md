@@ -3,7 +3,7 @@
 
 ### 在线体验
    * [App点击下载](https://pan.baidu.com/s/1Zt9wC17OqkgeTJExsKeR5A)  提取码：wajf
-   * [后台管理点击访问](http://demo.yuan988.cn:8080/login)
+   * [后台管理点击访问](http://demo.yuan988.cn:8080/login) 账号 admin 密码 admin123
 
 
 ### 功能简介
