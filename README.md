@@ -1,6 +1,10 @@
 ## taoke-android
    宝妈圈圈一款基于android原生开发淘宝客商城app，并支持后台管理，一整套系统。
 
+### 代码获取
+
+[点击获取源码](http://bs.yuan988.cn/93.html)
+
 ### 在线体验
    * [App点击下载](https://pan.baidu.com/s/1Zt9wC17OqkgeTJExsKeR5A)  提取码：wajf
    * [后台管理点击访问](http://demo.yuan988.cn:8080/login) 账号 admin 密码 admin123
@@ -60,9 +64,5 @@
 
 ![截图14](http://cdn.yuan988.cn/63BFBE3D30CD91E4A5D80847E70D53B8.png) | ![截图15](http://cdn.yuan988.cn/1E2D09E1C15F45D10D6D3E94301C97B4.png)
 
-
-### 代码获取
-
-[点击获取源码](http://bs.yuan988.cn/93.html)
 
 
