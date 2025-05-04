@@ -7,7 +7,7 @@
 
 ### 在线体验
    * [App点击下载](https://wwau.lanzouo.com/ic3Tx2vbgfyf)
-   * [后台管理点击访问](http://demo.yuan988.cn:8888/login) 账号 demo 密码 123456)
+   * [后台管理点击访问](http://demo.yuan988.cn:8888/login) 账号 demo 密码 123456
 
 
 ### 功能简介
