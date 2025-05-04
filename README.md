@@ -6,7 +6,7 @@
 [点击获取源码](http://bs.yuan988.cn/93.html)
 
 ### 在线体验
-   * [App点击下载](http://v1.yuan988.cn/bm-app-release.apk)
+   * [App点击下载](https://wwau.lanzouo.com/ic3Tx2vbgfyf)
    * [后台管理点击访问](http://demo.yuan988.cn:8888/login) 账号 demo 密码 123456)
 
 
