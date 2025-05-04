@@ -6,8 +6,8 @@
 [点击获取源码](http://bs.yuan988.cn/93.html)
 
 ### 在线体验
-   * [App点击下载](https://pan.baidu.com/s/1Zt9wC17OqkgeTJExsKeR5A)  提取码：wajf
-   * [后台管理点击访问](http://demo.yuan988.cn:8080/login) 账号 admin 密码 admin123
+   * [App点击下载](http://v1.yuan988.cn/bm-app-release.apk)
+   * [后台管理点击访问](http://demo.yuan988.cn:8888/login) 账号 demo 密码 123456)
 
 
 ### 功能简介
